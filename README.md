@@ -17,4 +17,3 @@ This project bypasses traditional static datasets by utilizing custom Python web
 
 ## 📊 The Dashboard
 The extracted data was fed into Tableau to create a dynamic, interactive dashboard analyzing the macroeconomic split between hard tech skills and financial domain expertise. 
-*(Optional: Insert a screenshot of your Tableau dashboard here, or drop the live link!)*
